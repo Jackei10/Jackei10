@@ -1,7 +1,3 @@
-
-
-https://github.com/Jackei10/Jackei10/assets/90694064/28e65dae-1126-4854-8203-1e90d60e1b32
-
 <h1 align="center">Hi 👋, I'm Yahyaa Shaikh</h1>
 <h3 align="center">I am a Data Analyst, web developer & UI/UX designer.</h3>
 <img align="right alt="Coding" width="400" src="">
