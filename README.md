@@ -1,7 +1,7 @@
 ![linkdin banner short](https://github.com/Jackei10/Jackei10/assets/90694064/83542aa3-5d54-4389-9b81-e79505bd2e85)
 <h1 align="center">Hi 👋, I'm Yahyaa Shaikh</h1>
 <h3 align="center">I am a Data Analyst, web developer & UI/UX designer.</h3>
-<img align="right" alt="Coding" width="100" height="" src="https://media.tenor.com/EjLR4wxrQ3gAAAAi/starbucks-coffee-cup-of-coffee.gif">
+<img align="right" alt="Coffee" width="150" height="" src="https://media.tenor.com/EjLR4wxrQ3gAAAAi/starbucks-coffee-cup-of-coffee.gif">
 
 
 - 🔭 I’m currently working on **Myself**
